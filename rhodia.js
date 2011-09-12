@@ -12,7 +12,8 @@
             'ERROR' : 5,
             'ALERT' : 6,
             'FATAL' : 7,
-            'WTF'   : 10
+            'WTF'   : 10,
+            'OFF'   : 100
         },
         defaultLevel = 'ERROR';
 
