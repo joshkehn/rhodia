@@ -41,7 +41,7 @@ There are nine log levels, and eight practical ones.
 * **DEBUG** - Often used to add debugging information.
 * **INFO** - Most used level in development.
 * **WARN** - Warning conditions, not necessarily errors.
-* **ERROR** - An error occured, most used for production environments
+* **ERROR** - An error occurred, most used for production environments
 * **ALERT** - Akin to *Something bad happened*. This is a red flag.
 * **FATAL** - Program cannot continue.
 * **OFF** - Not a real log level. Use it to turn logging entirely off (`instance.setLevel('OFF')`). Of course you can always log at an `OFF` level by saying `instance.off('This is stupid logging.')`.
