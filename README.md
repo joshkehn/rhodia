@@ -11,3 +11,7 @@ There are probably other client side loggers. Are they any good? I can't really 
 ### About Me
 
 Please see the dedicated [about me](http://joshuakehn.com/colophon/).
+
+### About The Name
+
+The name comes from the paper and notebook maker [Rhodia](http://rhodiapads.com/). Famous for using high quality paper wrapped in a very distinctive orange. They are a subsidiary of Clairefontaine, but I thought it would be easier to type Rhodia.
