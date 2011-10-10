@@ -1,4 +1,4 @@
-(function (root) {
+;(function (root) {
     var Rhodia = root.Rhodia = {},
         Log = null,
         appender = null,
@@ -51,10 +51,6 @@
         }
     }
 
-    function humanLevel (number) {
-        return humanLevel[number];
-    }
-
     Log = function Log (name) {
         this.prefix = name;
         this.level = levels[defaultLevel];
@@ -104,4 +100,4 @@
         };
     }
 
-}(window));
+}(typeof window !== 'undefined' ? window : exports));
